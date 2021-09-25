@@ -11,7 +11,7 @@ int main()
 {
     leer_alcanos("alcanos.txt");
 
-    escribir_salida("salidas.txt");
+    escribir_salida("salida.txt");
     escribir_diagramas("diagramas.txt");
 
 #if 0
